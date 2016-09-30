@@ -1,0 +1,10 @@
+# FILE DI CONFIGURAZIONE PER LA BB
+
+# BBclient 
+portBBc			12340
+urlServer		http://www.example.com
+portServer		12346
+urlOsso			http://www.example.com
+
+# BBserver
+portWS			8090

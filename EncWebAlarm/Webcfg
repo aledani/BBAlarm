@@ -1,0 +1,8 @@
+# FILE DI CONFIGURAZIONE PER IL SERVER ESTERNO
+
+# WebHandler 
+portHandler			12346
+
+# WebServer
+portServer 			12345	
+portWS				8090
